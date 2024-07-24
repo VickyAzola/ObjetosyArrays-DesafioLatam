@@ -16,4 +16,5 @@ Los datos se presentan en tablas y se actualizan dinámicamente mediante JavaScr
   
 ## Resultado
 
-![resultado](https://github.com/user-attachments/assets/2ce6c0b0-463c-425d-abfd-3970599250c2)
+![resultado](https://github.com/user-attachments/assets/d9b4860c-937b-4de9-9393-7e575789f03e)
+
